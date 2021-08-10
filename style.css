@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdigitalsynopsis.com%2Fwp-content%2Fuploads%2F2014%2F06%2Fsupercar-wallpapers-audi-r8-3.jpg&f=1&nofb=1) ;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+header{
+    text-align: center;
+    font-family: monospace;
+    color: rgb(217, 255, 0);
+    
+    
+}
+
+
+
+nav{
+    background-color: rgb(7, 197, 0);
+    
+}
+nav ul{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: none;
+}
+nav ul li{
+    display: inline-block;
+    padding: 0 40px;
+    margin: 0 10px;
+    
+    
+}
+nav input{
+    float: right;
+    width: 250px;
+    height: 30px;
+}
+section{
+    font-family: cursive;
+}
+section h2{
+    text-align: center;
+    font-style: oblique;
+    color: rgb(162, 229, 255);
+    border: rgb(255, 255, 142) 2px solid;
+}
+section article p{
+    color: rgb(115, 255, 0);
+    text-size-adjust: 25px;
+}
+section button{
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    background-color: rgb(255, 251, 0);
+    float: right;
+    margin-right: 40%;
+    height: 40px;
+    font-size: 25px;
+    margin-left: 30%;
+}
